@@ -81,15 +81,33 @@
 <h2 style="color:blue">M02_03 - Configurando o ESLint e Prettier:</h2>
 
 <ol>
-<li><ul><p><strong>Titulo</strong></p></li>
-<li><p>- Tema1:</p></li>
-<li><p>- Tema2:</p></li>
+<li><ul><p><strong>ESLint e Prettier</strong></p></li>
+<li>
+<p>- Instalar "npm i -D eslint" e Executar "npx eslint --init" ou "npm init @eslint/config" e Selecionar:</p>
+<p>How would you like to use ESLint? ... --> To check syntax and find problems</p>
+<p>What type of modules does your project use? ... --> JavaScript modules (import/export)</p>
+<p> Which framework does your project use? ... --> None of these</p>
+<p>Does your project use TypeScript? ... --> Yes</p>
+<p> Where does your code run? ...  --> Node</p>
+<p>globals, @eslint/js, typescript-eslint, eslint? Would you like to install them now? » No / Yes --> </p>
+</li><br>
+<li><p>- Instalar estensão de estilo: "npm i -D eslint-config-standard"</p></li><br>
+<li><p>- Instalar: "npm i -D prettier eslint-config-prettier eslint-plugin-prettier"</p></li><br>
+<li><p>- Instalar: "npm i -D eslint-plugin-import-helpers"</p></li><br>
 </ul>
 
 </ol>
 
 
 <h2 style="color:blue">M02_04 - Criando a rota base:</h2>
+
+<!-- <ol>
+<li><ul><p><strong>Titulo</strong></p></li>
+<li><p>- Tema1:</p></li>
+<li><p>- Tema2:</p></li>
+</ul>
+
+</ol> -->
 
 
 <h2 style="color:blue">M02_05 - Criando a Primeira Entidade:</h2>
